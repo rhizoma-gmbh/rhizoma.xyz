@@ -1,0 +1,56 @@
+@font-face {
+	font-family: "Ubuntu";
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url("fonts/UbuntuMono-Regular.ttf");
+}
+
+* {
+  font-family: "Ubuntu";
+}
+html {
+  height: 100%;
+}
+
+body {
+  margin: auto;
+  max-width: 60rem;
+  height: 100%;
+}
+
+body > header > h1 {
+  margin: 0 0 4rem 0;
+  padding-top: 2rem;
+}
+
+main > header {
+  margin-top: 2rem;
+}
+
+main > section > div {
+  margin: 0.25rem 0;
+}
+
+footer {
+  color: rgb(139, 139, 139);
+  position:fixed;
+  left: 0;
+  bottom: 10px;
+  width: 100%;
+  text-align: center;
+}
+
+footer > a {
+  color: rgb(139,139,139);
+}
+
+ul {
+  padding-inline-start: 2rem;
+}
+
+.year {
+  font-weight: 600;
+  text-decoration: underline;
+  margin-bottom: 0.2rem;
+}
