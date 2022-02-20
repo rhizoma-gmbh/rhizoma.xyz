@@ -14,14 +14,11 @@ html {
 }
 
 body {
-  margin: auto;
-  max-width: 60rem;
   height: 100%;
-  padding: 0 1rem;
+  padding: 0 2rem;
 }
 
 body > header > h1 {
-  margin: 0 0 4rem 0;
   padding-top: 2rem;
 }
 
@@ -35,11 +32,9 @@ main > section > div {
 
 footer {
   color: rgb(139, 139, 139);
-  position:fixed;
-  left: 0;
-  bottom: 10px;
-  width: 100%;
-  text-align: center;
+  position: fixed;
+  bottom: 2rem;
+  left: 2rem;
 }
 
 footer > a {
@@ -47,7 +42,7 @@ footer > a {
 }
 
 ul {
-  padding-inline-start: 2rem;
+  padding-inline-start: 1rem;
 }
 
 .year {
