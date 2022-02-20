@@ -8,9 +8,17 @@
 
 * {
   font-family: "Ubuntu";
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
+
 html {
   height: 100%;
+}
+
+h1 {
+  margin: 0;
 }
 
 body {
@@ -24,10 +32,19 @@ body > header > h1 {
 
 main > header {
   margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+main > section > ul {
+  margin-top: 1rem;
 }
 
 main > section > div {
   margin: 0.25rem 0;
+}
+
+section > div.subject {
+  padding-top: 0.4rem;
 }
 
 footer {
