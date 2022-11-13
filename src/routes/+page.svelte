@@ -5,6 +5,10 @@
   }
 </style>
 
+<svelte:head>
+  <title>Rhizoma</title>
+</svelte:head>
+
 <h1 class="text-xl mb-4" style:font-size="2rem" style:margin-bottom="2rem">
   Welcome!
 </h1>

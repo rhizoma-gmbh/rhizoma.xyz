@@ -1,3 +1,7 @@
+<svelte:head>
+  <title>Rhizoma ⸺ Team</title>
+</svelte:head>
+
 <div class="flex flex-row">
   <img
     class="inline-block border-white border w-40"

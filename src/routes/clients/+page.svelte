@@ -1,3 +1,7 @@
+<svelte:head>
+  <title>Rhizoma ⸺ Clients</title>
+</svelte:head>
+
 <div class="flex flex-row gap-10 mb-5">
   <a href="https://radicle.xyz">
     <div
