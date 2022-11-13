@@ -33,6 +33,6 @@
   </main>
   <footer class="container mx-auto flex items-end justify-between opacity-40">
     <img src="./images/footer_misc.svg" alt="Decoration" />
-    <span class="hidden md:inline mb-4">Designed by Rhizoma GmbH</span>
+    <span class="hidden md:inline text-xs mb-4">Designed by Rhizoma GmbH</span>
   </footer>
 </div>
