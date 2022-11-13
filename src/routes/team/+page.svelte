@@ -4,17 +4,30 @@
 
 <div class="flex flex-row">
   <img
-    class="inline-block border-white border w-40"
+    class="inline-block border-white border w-40 h-40"
     src="./images/avatar.jpg"
     alt="avatar"
   />
   <div class="flex flex-col ml-8">
     <span class="text-xl">Sebastian Martinez</span>
     <span>Fullstack Developer / 2021 - current</span>
-    <span class="mt-4"
-      >Started as mechanical engineer, I always had a passion for web
-      development, once able to work fulltime as developer I took the chance and
-      started this small but fine developer studio.</span
-    >
+    <p class="mt-4">
+      I am a software developer with a background in mechanical engineering. I
+      have always been interested in computers and technology, once I switched
+      industries I became a software developer.
+    </p>
+    <p class="mt-1">
+      I have been working as a software developer for 5 years now, and I have
+      opened a small but fine developer studio. I specialize in developing web
+      services, and I am always looking for new and innovative ways to improve
+      my products.
+    </p>
+    <p class="mt-1" />
+    <p>
+      I am passionate about my work, and I firmly believe that technology can
+      change the world for the better. I am always striving to learn new
+      programming languages and technologies, and I am always looking to improve
+      my skills.
+    </p>
   </div>
 </div>
