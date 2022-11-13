@@ -19,8 +19,8 @@
     <td> Twitter </td>
     <td>
       <a
-        href="https://twitter.com/rhizoma"
-        class="hover:underline hover:transition-all">@rhizoma</a
+        href="https://twitter.com/rhizomagmbh"
+        class="hover:underline hover:transition-all">@rhizomagmbh</a
       >
     </td>
   </tr>
