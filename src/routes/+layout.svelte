@@ -6,7 +6,7 @@
 
 <div class="flex flex-col min-h-screen">
   <header
-    class="container md:mx-auto mx-5 my-10 flex justify-between items-center"
+    class="md:container md:mx-auto mx-5 my-10 flex justify-between items-center"
   >
     <a href="/">
       <div class="flex items-center">
