@@ -21,4 +21,4 @@
   efficient, and user-friendly. We are committed to helping you launch your dapp
   and making it available to users worldwide.
 </p>
-<p>Contact us today to get started!</p>
+<p><a href="/contact" class="underline">Contact us today to get started!</a></p>
