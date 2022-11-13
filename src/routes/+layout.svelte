@@ -16,10 +16,9 @@
     </a>
     <div>
       <nav class="relative flex items-center gap-8">
-        <a class="z-10" href="/">/</a>
-        <a class="z-10" href="/team">/team</a>
-        <a class="z-10" href="/clients">/clients</a>
-        <a class="z-10" href="/contact">/contact</a>
+        <a class="z-10" href="/team">team</a>
+        <a class="z-10" href="/clients">clients</a>
+        <a class="z-10" href="/contact">contact</a>
         <img
           class="absolute z-0 -right-12 -top-60 max-w-none opacity-40"
           src="./images/header_misc.svg"
