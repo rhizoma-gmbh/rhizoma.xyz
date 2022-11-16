@@ -2,13 +2,13 @@
   <title>Rhizoma ⸺ Team</title>
 </svelte:head>
 
-<div class="flex flex-row">
+<div class="flex flex-col md:flex-row md">
   <img
-    class="inline-block border-white border w-40 h-40"
+    class="inline-block border-white border w-40 h-40 mb-3 md:mb-0"
     src="./images/avatar.jpg"
     alt="avatar"
   />
-  <div class="flex flex-col ml-8">
+  <div class="flex flex-col text-justify md:text-left md:ml-4">
     <span class="text-xl">Sebastian Martinez</span>
     <span>Fullstack Developer / 2021 - current</span>
     <p class="mt-4">
