@@ -2,7 +2,7 @@
   <title>Rhizoma ⸺ Team</title>
 </svelte:head>
 
-<div class="flex flex-col md:flex-row md">
+<div class="flex flex-col md:flex-row">
   <img
     class="inline-block border-white border w-40 h-40 mb-3 md:mb-0"
     src="./images/avatar.jpg"

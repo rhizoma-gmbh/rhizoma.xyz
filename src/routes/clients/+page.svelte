@@ -2,7 +2,7 @@
   <title>Rhizoma ⸺ Clients</title>
 </svelte:head>
 
-<div class="flex flex-row gap-10 mb-5">
+<div class="flex flex-col items-center md:flex-row gap-10 mb-5">
   <a href="https://radicle.xyz">
     <div
       class="w-72 py-10 px-5 hover:bg-gray-300 hover:text-gray-800 transition border cursor-pointer"
