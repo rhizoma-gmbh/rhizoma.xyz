@@ -1,7 +1,15 @@
 <script>
+  import Plausible from "plausible-tracker";
+  import { browser } from "$app/environment";
   import "../app.css";
 
-  export const prerender = true;
+  if (browser) {
+    const plausible = Plausible({
+      domain: "rhizoma.dev",
+    });
+
+    plausible.enableAutoPageviews();
+  }
 </script>
 
 <div class="flex flex-col min-h-screen">
