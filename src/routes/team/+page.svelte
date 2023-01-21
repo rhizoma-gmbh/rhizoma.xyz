@@ -17,7 +17,7 @@
       industries I became a software developer.
     </p>
     <p class="mt-1">
-      I have been working as a software developer for 5 years now, and I have
+      Have been working as a software developer for 5 years now, and thus have
       opened a small but fine developer studio. I specialize in developing web
       services, and I am always looking for new and innovative ways to improve
       my products.
@@ -26,8 +26,7 @@
     <p>
       I am passionate about my work, and I firmly believe that technology can
       change the world for the better. I am always striving to learn new
-      programming languages and technologies, and I am always looking to improve
-      my skills.
+      programming languages and technologies and to improve my skills.
     </p>
   </div>
 </div>
